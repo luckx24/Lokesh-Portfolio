@@ -45,7 +45,9 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-base sm:text-lg text-gray-400 my-3 sm:my-4 max-w-[500px] mx-auto md:mx-0"
         >
-          I&apos;m a Full Stack Software Engineer specializing in building modern web applications. Check out my projects and skills.
+          I&apos;am Mern stack Developer specializing in Python and SQL with hands-on experience in CI/CD, Docker, Git, and AWS (EC2, S3). Strong 
+          problem-solving, data processing, and Linux scripting skills. Built automated deployment pipelines and full-stack applications. Seeking an 
+Associate Software Engineer role to contribute to data-driven features, scripting, and automation. 
         </motion.p>
 
         {/* Call-to-Action Button */}
