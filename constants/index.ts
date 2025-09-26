@@ -87,7 +87,7 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    link: "https://www.instagram.com/____luck9/",
   },
   {
     name: "Facebook",
@@ -97,7 +97,7 @@ export const SOCIALS = [
   {
     name: "Twitter",
     icon: RxTwitterLogo,
-    link: "https://twitter.com",
+    link: "https://x.com/luckykachhi81",
   },
 ] as const;
 
@@ -202,7 +202,7 @@ export const FOOTER_DATA = [
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
+        link: "https://github.com/luckx24",
       },
 
     ],
@@ -214,7 +214,7 @@ export const FOOTER_DATA = [
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://www.linkedin.com/in/abdul-raheman-389597281/",
+        link: "www.linkedin.com/in/lokesh-kachhi-434799264",
       },
     ],
   },
@@ -225,7 +225,7 @@ export const FOOTER_DATA = [
       {
         name: "Contact Me",
         icon: null,
-        link: "mailto:arrahmanofficial9@gmail.com",
+        link: "mailto:luckykachhi81@gmail.com",
       },
     ],
   },
