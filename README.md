@@ -124,8 +124,6 @@ text
 ✅ LoadBalancer + ALB production routing
 ✅ Zero-to-production deployment pipeline
 👨‍💻 Built by Lokesh Shirish Borse | DevOps Engineer
-📧 lokeshborse@example.com | 🔗 linkedin.com/in/lokeshborse
-🛠️ GitHub: github.com/lokesh-weby/Lokesh-Portfolio
 
 
 
