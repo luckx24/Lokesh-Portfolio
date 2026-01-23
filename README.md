@@ -29,14 +29,12 @@ An end-to-end DevOps pipeline for deploying a high-availability React applicatio
 * **Infrastructure:** 2x `t3.micro` nodes (Optimized) ✅
 
 ### 📁 Cluster Configuration
-```text
+
 ├── Control Plane: portfolio-cluster (ap-south-1)
 ├── Nodegroup: portfolio-nodes-v2 (max=2)
 ├── Deployment: portfolio-simple (1 replica)
 ├── Service: portfolio-service (LoadBalancer)
 └── Pod: portfolio-simple-59b8ffcf97-hr8q7 (1/1 Running)
-
-
 
 <a name="readme-top"></a>
 
@@ -129,7 +127,6 @@ space-portfolio/
   |- tsconfig.json
 ```
 
-<br />
 
 ## :toolbox: Getting Started
 
